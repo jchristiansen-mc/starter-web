@@ -7,7 +7,7 @@
 
 # THANKS
 
-    To the instructor
+    To the instructor. There is some new text here.
 
 # TECHNOLOGY COLOPHON
 
